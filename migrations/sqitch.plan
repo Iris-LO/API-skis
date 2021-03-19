@@ -1,0 +1,9 @@
+%syntax-version=1.0.0
+%project=API-skis
+%uri=https://github.com/Iris-LO/API-skis
+
+create_tables 2021-03-19T15:15:21Z Iris-LO <iris.a.orsini@gmail.com> # Création des tables
+functions/insert 2021-03-19T15:16:14Z Iris-LO <iris.a.orsini@gmail.com> # Fonction d'ajout d'un ski
+functions/insert_rest 2021-03-19T15:17:42Z Iris-LO <iris.a.orsini@gmail.com> # Modification de la fonction pour retourner le ski créé
+functions/filter 2021-03-19T15:18:17Z Iris-LO <iris.a.orsini@gmail.com> # Mise en place d'une fonction de filtre
+functions/insert_json 2021-03-19T15:19:03Z Iris-LO <iris.a.orsini@gmail.com> # Version ultime de l'insertion de ski
