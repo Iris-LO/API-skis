@@ -1,0 +1,30 @@
+{
+  "name": "migrations",
+  "version": "1.0.0",
+  "description": "API project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "seed": "tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iris-LO/API-skis.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Iris-LO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iris-LO/API-skis/issues"
+  },
+  "homepage": "https://github.com/Iris-LO/API-skis#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "pg": "^8.5.1"
+  }
+}
